@@ -1,0 +1,17 @@
+label{
+	float: left;
+}
+.input-group-text{
+	position: absolute;
+	right: 1rem;
+    top: 2.5rem;
+}
+.form-control{
+	position: relative;
+}
+#settings1 label{
+	text-align: center;
+	float: none;
+	padding: 1rem;
+	padding-top: 0.3rem;
+}
