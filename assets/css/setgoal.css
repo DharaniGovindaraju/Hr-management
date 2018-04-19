@@ -1,0 +1,7 @@
+.card .card-body {
+     min-height: 0; 
+}
+.card-header{
+	    background-color: rgb(233, 94, 56);
+	    color: white;
+}

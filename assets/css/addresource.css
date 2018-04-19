@@ -1,0 +1,19 @@
+.input-group-text{
+	position: absolute;
+	right: 1.5rem;
+    top: 0.6rem;
+}
+.form-control{
+	position: relative;
+}
+#addresource .input-group-text{
+	top:2.6rem;
+}
+#addresource label{
+	float: left;
+	overflow: hidden;
+}
+.card-header{
+	    background-color: rgb(233, 94, 56);
+	    color: white;
+}
