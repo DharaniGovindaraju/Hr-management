@@ -5,3 +5,13 @@
 	    background-color: rgb(233, 94, 56);
 	    color: white;
 }
+#panel, #panels, #panel1, #panels1, #panel2, #panels2  {
+    padding: 50px;
+    display: none;
+    margin-bottom: 1rem;
+}
+#panel, #flip, #panels, #flips,#panel1, #flip1, #panels1, #flips1, #panel2, #flip2, #panels2, #flips2 {
+    padding: 5px;
+    text-align: center;
+    border: solid 1px #c3c3c3;
+}

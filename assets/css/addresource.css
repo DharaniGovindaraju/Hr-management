@@ -17,3 +17,7 @@
 	    background-color: rgb(233, 94, 56);
 	    color: white;
 }
+
+#panel, #panel1 {
+    display: none;
+}
